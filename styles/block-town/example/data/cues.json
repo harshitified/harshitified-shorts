@@ -1,0 +1,189 @@
+{
+ "duration": 26.988,
+ "cues": [
+  {
+   "t": 0,
+   "type": "whoosh"
+  },
+  {
+   "t": 1.683,
+   "type": "boing",
+   "gain": 0.7
+  },
+  {
+   "t": 2.059,
+   "type": "whoosh"
+  },
+  {
+   "t": 3.041,
+   "type": "ding",
+   "gain": 0.6
+  },
+  {
+   "t": 5.899,
+   "type": "whoosh"
+  },
+  {
+   "t": 7.261,
+   "type": "tock",
+   "gain": 0.25
+  },
+  {
+   "t": 7.561,
+   "type": "tock",
+   "gain": 0.25
+  },
+  {
+   "t": 7.861,
+   "type": "tock",
+   "gain": 0.25
+  },
+  {
+   "t": 8.161,
+   "type": "tock",
+   "gain": 0.25
+  },
+  {
+   "t": 8.394,
+   "type": "whoosh"
+  },
+  {
+   "t": 9.151,
+   "type": "boing",
+   "gain": 0.6
+  },
+  {
+   "t": 9.592,
+   "type": "whoosh"
+  },
+  {
+   "t": 10.299,
+   "type": "zip",
+   "gain": 0.5
+  },
+  {
+   "t": 11.106,
+   "type": "whoosh"
+  },
+  {
+   "t": 11.306,
+   "type": "chirp",
+   "gain": 0.4
+  },
+  {
+   "t": 12.476,
+   "type": "whoosh"
+  },
+  {
+   "t": 12.626,
+   "type": "pop",
+   "gain": 0.6
+  },
+  {
+   "t": 12.858,
+   "type": "pop",
+   "gain": 0.6
+  },
+  {
+   "t": 13.09,
+   "type": "pop",
+   "gain": 0.6
+  },
+  {
+   "t": 13.322,
+   "type": "pop",
+   "gain": 0.6
+  },
+  {
+   "t": 13.554,
+   "type": "pop",
+   "gain": 0.6
+  },
+  {
+   "t": 13.936,
+   "type": "whoosh"
+  },
+  {
+   "t": 14.036,
+   "type": "slide",
+   "dur": 1.6,
+   "gain": 0.4
+  },
+  {
+   "t": 15.755,
+   "type": "boing",
+   "gain": 0.5
+  },
+  {
+   "t": 17.046,
+   "type": "whoosh"
+  },
+  {
+   "t": 18.513,
+   "type": "ding",
+   "gain": 0.8
+  },
+  {
+   "t": 19.596,
+   "type": "boing",
+   "gain": 0.7
+  },
+  {
+   "t": 20.427,
+   "type": "whoosh"
+  },
+  {
+   "t": 21.087,
+   "type": "thud",
+   "gain": 0.6
+  },
+  {
+   "t": 21.909,
+   "type": "thud",
+   "gain": 0.35
+  },
+  {
+   "t": 22.079,
+   "type": "thud",
+   "gain": 0.35
+  },
+  {
+   "t": 22.249,
+   "type": "thud",
+   "gain": 0.35
+  },
+  {
+   "t": 22.419,
+   "type": "thud",
+   "gain": 0.35
+  },
+  {
+   "t": 22.507,
+   "type": "whoosh"
+  },
+  {
+   "t": 22.589,
+   "type": "thud",
+   "gain": 0.35
+  },
+  {
+   "t": 22.759,
+   "type": "thud",
+   "gain": 0.35
+  },
+  {
+   "t": 23.829,
+   "type": "thud",
+   "gain": 0.8
+  },
+  {
+   "t": 24.13,
+   "type": "whoosh"
+  },
+  {
+   "t": 25.269,
+   "type": "chirp",
+   "gain": 0.5
+  }
+ ]
+}

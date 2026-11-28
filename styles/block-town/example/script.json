@@ -1,0 +1,30 @@
+{
+  "title": "The City That Couldn't Stop Dancing",
+  "voice": "am_michael",
+  "speed": 1.18,
+  "lead": 0.1,
+  "gap": 0.06,
+  "outro": 0.6,
+  "music": "bounce",
+  "sources": [
+    "Britannica, 'dancing plague of 1518' (Strasbourg, July 1518; Frau Troffea began dancing in the street; hundreds danced; leaders decided more dancing was the cure; lasted about two months)",
+    "Public Domain Review, 'The Dancing Plague of 1518' (started 14 July; a stage built, musicians paid to play; dancers taken to the shrine of St Vitus)",
+    "National Geographic, 'dancing plague of 1518 Strasbourg choreomania' (around 400 people danced; cause still debated)",
+    "Popular Science (2025), 'The mysterious dancing plague that killed people in 1518' (as many as 400 by late August; council cleared the grain market, built a stage, hired musicians)"
+  ],
+  "lines": [
+    { "text": "A whole city once couldn't stop dancing.", "caps": "A whole / *city | once couldn't | stop / *dancing." },
+    { "text": "In July 1518, in Strasbourg,", "caps": "In July / *1518, | in / *{g}Strasbourg," },
+    { "text": "a woman called Frau Troffea stepped into the street", "caps": "a woman | called *Frau Troffea | stepped into | the *street" },
+    { "text": "and started dancing.", "caps": "and started / *dancing." },
+    { "text": "No music. No reason.", "caps": "No *music. | No / *{p}reason." },
+    { "text": "She danced for days,", "caps": "She danced | for / *days," },
+    { "text": "and then her neighbours joined in.", "caps": "and then | her *neighbours | joined / *in." },
+    { "text": "By August, as many as four hundred people were dancing,", "caps": "By *August, | as many as | *400 people | were *dancing," },
+    { "text": "so the city's leaders had a brilliant idea:", "caps": "so the city's | *leaders | had a / *brilliant | idea:" },
+    { "text": "more dancing.", "caps": "more / *dancing." },
+    { "text": "They built a stage and hired a band,", "caps": "They built | a *stage | and hired | a *band," },
+    { "text": "and it only made things worse.", "caps": "and it only | made things / *{r}worse." },
+    { "text": "To this day, nobody knows why it started.", "caps": "To this / *day, | nobody / *{p}knows | why it *started." }
+  ]
+}

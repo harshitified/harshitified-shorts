@@ -1,0 +1,85 @@
+{
+ "duration": 26.988,
+ "voice": "am_michael",
+ "speed": 1.18,
+ "lines": [
+  {
+   "i": 0,
+   "text": "A whole city once couldn't stop dancing.",
+   "start": 0.1,
+   "end": 2.059
+  },
+  {
+   "i": 1,
+   "text": "In July 1518, in Strasbourg,",
+   "start": 2.119,
+   "end": 5.429
+  },
+  {
+   "i": 2,
+   "text": "a woman called Frau Troffea stepped into the street",
+   "start": 5.959,
+   "end": 8.454
+  },
+  {
+   "i": 3,
+   "text": "and started dancing.",
+   "start": 8.454,
+   "end": 9.592
+  },
+  {
+   "i": 4,
+   "text": "No music. No reason.",
+   "start": 9.652,
+   "end": 11.106
+  },
+  {
+   "i": 5,
+   "text": "She danced for days,",
+   "start": 11.166,
+   "end": 12.246
+  },
+  {
+   "i": 6,
+   "text": "and then her neighbours joined in.",
+   "start": 12.536,
+   "end": 13.936
+  },
+  {
+   "i": 7,
+   "text": "By August, as many as four hundred people were dancing,",
+   "start": 13.996,
+   "end": 16.686
+  },
+  {
+   "i": 8,
+   "text": "so the city's leaders had a brilliant idea:",
+   "start": 17.106,
+   "end": 19.216
+  },
+  {
+   "i": 9,
+   "text": "more dancing.",
+   "start": 19.656,
+   "end": 20.427
+  },
+  {
+   "i": 10,
+   "text": "They built a stage and hired a band,",
+   "start": 20.487,
+   "end": 22.217
+  },
+  {
+   "i": 11,
+   "text": "and it only made things worse.",
+   "start": 22.567,
+   "end": 24.13
+  },
+  {
+   "i": 12,
+   "text": "To this day, nobody knows why it started.",
+   "start": 24.19,
+   "end": 26.328
+  }
+ ]
+}
